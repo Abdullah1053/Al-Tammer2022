@@ -24,7 +24,7 @@
                 <h3>{{__('main.foo-info-h')}}</h3>
                 <ul class="link_menu">
                     <li><a href="/home">{{__('main.home')}}</a></li>
-                    <li><a href="/about"> {{__('main.about')}}</a></li>
+                    <li><a href="{{route('about')}}"> {{__('main.about')}}</a></li>
                    <li><a href="/service">{{__('main.service')}}</a></li>
                    <li><a href="/gallery">{{__('main.gallery')}}</a></li>
                    <li><a href="/contact">{{__('main.contact-us')}}</a></li>

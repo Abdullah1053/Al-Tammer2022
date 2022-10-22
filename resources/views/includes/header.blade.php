@@ -5,7 +5,7 @@
     <div class="header">
        <div class="container">
           <div class="row">
-             <div class="col-md-12 col-sm-3 col logo_section">
+             <div class="col-md-12  col logo_section">
                 <div class="full">
                    <div class="center-desk">
                       <div class="logo">
@@ -24,14 +24,14 @@
                 @endforeach
             </ul> --}}
 
-             <div class="col-md-9 offset-md-1 mb-auto mb-sm-5">
-                <nav class="navbar navbar-expand-md navbar-dark ">
+             <div class="col-md-9 offset-md-1 mb-auto mb-sm-4">
+                <nav class="navigation navbar-expand-md navbar-dark ">
                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
                    <span class="navbar-toggler-icon"></span>
                    </button>
-                   <div class="collapse navbar-collapse" id="navbarsExample04">
+                   <div class=" navbar-collapse" id="navbarsExample04">
                       <ul class="navbar-nav mr-auto">
-                         <li class="nav-item active">
+                         <li class="nav-item ">
                             <a class="nav-link" href="/home" style="font-size:20px">{{__('main.home')}}</a>
                          </li>
                          <li class="nav-item">
