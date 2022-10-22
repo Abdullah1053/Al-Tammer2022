@@ -23,7 +23,7 @@ return [
 
     How can you benefit from our services:
 
-    Any person or entity can request a service through the company's application or through the company's accounts from Email, Facebook, Twitter, WhatsApp",
+    Any person or entity can request a service through the company's application or through the company's accounts from Email, Facebook, Twitter, WhatsApp (+967- 778 699 694)",
 
     'Read-More'=>'Read More',
 
@@ -31,32 +31,31 @@ return [
     'ser-our'=>'Our',
 
     'serv-Architectural-h'=>'Architectural & construction works',
-    'serv-Architectural-b'=>'many variations of Architectural & construction works <br>Designs, Consultations,
+    'serv-Architectural-b'=>'Designs, Consultations,
     Architectural Studies<br>Designs, Consultations,construction Studies',
 
     'serv-Surveying-h'=>'Surveying Works',
-    'serv-Surveying-b'=>'many variations of Surveying Work <br>Land area, Raising areas,<br>Raising levels',
+    'serv-Surveying-b'=>'Land area, Raising areas,<br>Raising levels',
 
 
     'serv-Specialized-h'=>'Specialized manpower request',
-    'serv-Specialized-b'=>'many variations of manpower <br>Worker , Carpenter, <br>Plumber, Electrical',
+    'serv-Specialized-b'=>'Worker , Carpenter, <br>Plumber, Electrical',
 
     'serv-Decoration-h'=>'Decoration Work',
-    'serv-Decoration-b'=>'many variations of Decoration Work <br>Ceiling decor,Wall decor<br>',
+    'serv-Decoration-b'=>'Ceiling decor,Wall decor<br>',
 
     'serv-Construction-h'=>'Construction Work',
-    'serv-Construction-b'=>'many variations of Construction Work
+    'serv-Construction-b'=>'
     Building blocks, building stone,
     building bricks',
 
     'serv-Concrete-h'=>'Concrete Works',
-    'serv-Concrete-b'=>'many variations of Concrete Work
+    'serv-Concrete-b'=>'
     Casting bases, casting columns
     , casting ceilings, casting bridges',
 
     'serv-Metal-h'=>'Metal works',
-    'serv-Metal-b'=>'many variations of Metal works
-    Hangar works, metal facilities',
+    'serv-Metal-b'=>'Hangar works, metal facilities',
 
     'gallery-h'=>'Gallery',
     'gall-our'=>'Our',
@@ -146,5 +145,9 @@ return [
 'PhoneNum required'=>'The phone number Field is requires',
 'whatsappNum required'=>'The whatsapp number  Field is requires',
 
-"successMessage"=>'successfully send.',
+"successMessage"=>'Your order details has been sent seccessfully, thanks!.',
+"anyotherorder"=>'You have a different order?!',
+"Thankyou"=>'All Done!'
+
+
 ];

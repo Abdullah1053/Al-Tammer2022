@@ -7,8 +7,10 @@
                 <ul class="social_icon">
                    <li><a href="https://m.facebook.com/profile.php?id=100084008959198"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                    <li><a href="https://twitter.com/Tameer_Company?t=7G00m0k_TyhKpT2OfFfkkQ&s=08"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                   <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                   <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                   <li><p style="color:blue">(+967- 778 699 694)</p></li>
+
+                   <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                   <!-- <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li> -->
                 </ul>
                 <p class="variat pad_roght2">{{__('main.foo-b')}}
                 </p>

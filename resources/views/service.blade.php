@@ -26,14 +26,14 @@
              <div class="row">
                 <div class="col-md-4 col-sm-6">
                    <div class="service_box">
-                      <i><a href="contact.html"><img src="{{URL::asset('images/service1.png')}}" alt="#"/></a></i>
+                      <i><a href="/contact"><img src="{{URL::asset('images/service1.png')}}" alt="#"/></a></i>
                       <h3>{!!__('main.serv-Specialized-h')!!}</h3>
                       <p>{!!__('main.serv-Specialized-b')!!}</p>
                    </div>
                 </div>
                 <div class="col-md-4 offset-md-1 col-sm-6">
                    <div class="service_box">
-                      <i><a href="contact.html"><img src="{{URL::asset('images/service2.png')}}" alt="#"/></a></i>
+                      <i><a href="/contact"><img src="{{URL::asset('images/service2.png')}}" alt="#"/></a></i>
                       <h3>{!! __("main.serv-Construction-h") !!}</h3>
                       <p>
                         {!! __("main.serv-Construction-b") !!}
@@ -42,14 +42,14 @@
                 </div>
                 <div class="col-md-4 offset-md-3 col-sm-6 mar_top">
                    <div class="service_box">
-                      <i><a href="contact.html"><img src="{{URL::asset('images/service3.png')}}" alt="#"/></a></i>
+                      <i><a href="/contact"><img src="{{URL::asset('images/service3.png')}}" alt="#"/></a></i>
                       <h3>{{__('main.serv-Concrete-h')}}</h3>
                       <p>{!!__('main.serv-Concrete-b')!!}</p>
                    </div>
                 </div>
                 <div class="col-md-4 offset-md-1 col-sm-6 mar_top">
                    <div class="service_box">
-                      <i><a href="contact.html"><img src="{{URL::asset('images/service4.png')}}" alt="#"/></a></i>
+                      <i><a href="/contact"><img src="{{URL::asset('images/service4.png')}}" alt="#"/></a></i>
                       <h3>{{__('main.serv-Metal-h')}}</h3>
                       <p> {!!__('main.serv-Metal-b')!!}</p>
                    </div>
@@ -74,14 +74,14 @@
                 <div class="row">
                    <div class="col-md-4 col-sm-6">
                       <div class="service_box">
-                         <i><a href="contact.html"><img src="{{URL::asset('images/service5.png')}}" alt="#"/></a></i>
+                         <i><a href="/contact"><img src="{{URL::asset('images/service5.png')}}" alt="#"/></a></i>
                          <h3>{{__('main.serv-Specialized-h')}}</h3>
                          <p>{!!__('main.serv-Specialized-b')!!}</p>
                       </div>
                    </div>
                    <div class="col-md-4 offset-md-1 col-sm-6">
                       <div class="service_box">
-                         <i><a href="contact.html"><img src="{{URL::asset('images/service6.png')}}" alt="#"/></a></i>
+                         <i><a href="/contact"><img src="{{URL::asset('images/service6.png')}}" alt="#"/></a></i>
                          <h3>{{__('main.serv-Decoration-h')}}</h3>
 
                          <p>
@@ -91,18 +91,21 @@
                    </div>
                    <div class="col-md-4 offset-md-3 col-sm-6 mar_top">
                       <div class="service_box">
-                         <i><a href="contact.html"><img src="{{URL::asset('images/service7.png')}}" alt="#"/></a></i>
+                         <i><a href="/contact"><img src="{{URL::asset('images/service7.png')}}" alt="#"/></a></i>
                          <h3> {{__('main.serv-Surveying-h')}}</h3>
                          <p>{!!__('main.serv-Surveying-b')!!}</p>
                       </div>
                    </div>
                    <div class="col-md-4 offset-md-1 col-sm-6 mar_top">
                       <div class="service_box">
-                         <i><a href="contact.html"><img src="{{URL::asset('images/service8.png')}}" alt="#"/></a></i>
+                         <i><a href="/contact"><img src="{{URL::asset('images/service8.png')}}" alt="#"/></a></i>
                          <h3>{{__('main.serv-Architectural-h')}}</h3>
                          <p>{!!__('main.serv-Architectural-b')!!}</p>
                       </div>
                    </div>
+                   <div class="col-md-12">
+                        <a class="read_more" href="/contact">{{__('main.anyotherorder')}}</a>
+                     </div>
                 </div>
              </div>
           </div>

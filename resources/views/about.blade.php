@@ -21,10 +21,8 @@
                     <h2>{{__('main.us-h')}} <span class="green">{{__('main.about-h')}}</span></h2>
                     <h2>{!!__('main.who-are-we2')!!}</span></h2>
                     <p style="font-size:22px">
-                        {{__('main.who-are-b')}}
-
+                        {{__('main.who-are-we')}}
                     </p>
-
                  </div>
               </div>
               <div class="col-md-7">
@@ -50,7 +48,7 @@
               </div>
               <div class="col-md-7">
                  <div class="about_img">
-                    <figure><img src="{{URL::asset('images/about.png')}}" alt="#" /></figure>
+                    <figure><img src="{{URL::asset('images/about2.png')}}" alt="#" /></figure>
                  </div>
               </div>
            </div>
@@ -69,7 +67,7 @@
               </div>
               <div class="col-md-7">
                  <div class="about_img">
-                    <figure><img src="{{URL::asset('images/about.png')}}" alt="#" /></figure>
+                    <figure><img src="{{URL::asset('images/about3.png')}}" alt="#" /></figure>
                  </div>
               </div>
            </div>

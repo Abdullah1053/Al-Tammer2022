@@ -77,8 +77,8 @@
  </div>
     <div class="popup" id="popup">
         <img src="{{URL::asset('images/404-tick.gif')}}">
-        <h2>Thank you </h2>
-        <p>Your details has been successfully submitted . Thanks!</p>
+        <h2>{{__('main.Thankyou')}}</h2>
+        <p>{{__('main.successMessage')}}</p>
         <button type="button" onclick="document.getElementById('popup').classList.add('close-popup')">OK</button>
      </div>
 
