@@ -24,8 +24,8 @@
                 @endforeach
             </ul> --}}
 
-             <div class="col-md-9 offset-md-1">
-                <nav class="navigation navbar navbar-expand-md navbar-dark ">
+             <div class="col-md-9 offset-md-1 mb-auto mb-sm-5">
+                <nav class="navbar navbar-expand-md navbar-dark ">
                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
                    <span class="navbar-toggler-icon"></span>
                    </button>
