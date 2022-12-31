@@ -24,8 +24,8 @@
         <form action="{{route('reset.password')}}" method="POST">
             @csrf
             <div class="mb-3">
-              <label for="InputEmail1" class="form-label">New Email</label>
-              <input type="password" name="new-email" class="form-control  id="InputEmail1" aria-describedby="emailHelp">
+              <label for="InputEmail1" class="form-label">New User Name</label>
+              <input type="name" name="new-email" class="form-control"  id="InputEmail1" aria-describedby="emailHelp">
               @error('new-email')
               <div class="text-sm-start text-danger">
                 {{$message}}

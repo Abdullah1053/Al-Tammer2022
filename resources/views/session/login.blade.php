@@ -19,8 +19,8 @@
         <form action="{{route('login')}}" method="POST">
             @csrf
             <div class="mb-3">
-              <label for="InputEmail1" class="form-label">Email address</label>
-              <input type="email" name="email" class="form-control  id="InputEmail1" aria-describedby="emailHelp">
+              <label for="InputEmail1" class="form-label">user name</label>
+              <input type="name" name="email" class="form-control"  id="InputEmail1" aria-describedby="emailHelp">
               @error('email')
               <div class="text-sm-start text-danger">
                 {{$message}}
