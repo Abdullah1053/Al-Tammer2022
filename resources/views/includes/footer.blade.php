@@ -41,7 +41,7 @@
           <div class="container">
              <div class="row">
                 <div class="col-md-10 offset-md-1">
-                   <p>© 2022 All Rights Reserved. Design by <a href="https://abdullah1053.github.io/AbdullahAdemi/" style="color:blue">Eng: Abdullah Ademi</a> & <a href="https://www.linkedin.com/in/abdurazaq-al-hamri-6440191ab/" style="color:blue">Eng: Abdurzaq Alhmri</a></p>
+                   <p>© 2022 All Rights Reserved. Design by <a href="https://abdullah1053.github.io/AbdullahAdemi/" target="_blank" style="color:blue">Eng: Abdullah Ademi</a> & <a href="https://www.linkedin.com/in/abdurazaq-al-hamri-6440191ab/"  target="_blank" style="color:blue">Eng: Abdurzaq Alhmri</a></p>
                 </div>
              </div>
           </div>
